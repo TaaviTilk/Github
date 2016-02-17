@@ -1,4 +1,4 @@
 # Proov
 
-See on githhub proov. text3
-Ja tegin uue muudatuse
+See on githhub proov. text4
+Tulin bitbuketi kaustast välja ja läksin githubi kausta ja saatsin muudatused githubi
