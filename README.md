@@ -1,3 +1,3 @@
 # Proov
 
-See on githhub proov. text1
+See on githhub proov. text2
